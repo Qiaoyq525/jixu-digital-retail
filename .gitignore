@@ -1,0 +1,12 @@
+target/
+.idea/
+*.iml
+.local/
+*.log
+*.pid
+config/application-local.yml
+config/mysql-admin*.cnf
+verification/
+config/setup-status.json
+backups/
+.run/
